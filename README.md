@@ -41,7 +41,7 @@ Here we can see the first result.
 <p align="center"> <img src="https://github.com/12aptor/Ravn-Challenge-V2-Paolo/blob/master/src/Img/main%20menu.png" width="250"/> </p>
 
 Finally we obtain the general data of each character.
-<p align="center"> <img src="https://github.com/12aptor/Ravn-Challenge-V2-Paolo/blob/master/src/Img/get%20general%20information.png" width="250"/> </p>
+<p align="center"> <img src="https://github.com/12aptor/Ravn-Challenge-V2-Paolo/blob/master/src/Img/get%20general%20information.png" width="600"/> </p>
 
 This would be your view.
 <p align="center"> <img src="https://github.com/12aptor/Ravn-Challenge-V2-Paolo/blob/master/src/Img/general%20information%20menu.png" width="250"/> </p>
