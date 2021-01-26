@@ -1,23 +1,27 @@
-# Getting Started with Create React App
+# React(JS) application with Apollo Client and Graphql
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Application that allows you to consult data about the Star Wars movie, about its characters, scenes and clothes.
 
-## Available Scripts
+## Development process
 
-In the project directory, you can run:
+To develop it there was a period of 4 days. During those 4 days this was the process:
 
-### `npm start`
+### Technologies
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- React(JS).
+- CSS.
+- [Fontawesome icons](https://fontawesome.com/icons)
+- [Apollo](https://www.apollographql.com/)
+- [Graphql](https://graphql.org)
+- [Firma - desing](https://www.figma.com/file/Ceoqa8DbrtyKoOBDR77ktm/Ravn-Code-Challenge?node-id=0%3A1)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+All the documentation I use is in the links I just shared.
 
-### `npm test`
+### Setting
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+First set up Apollo:
+
+https://github.com/12aptor/Ravn-Challenge-V2-Paolo/blob/master/src/Img/routing%20and%20apollo%20configuration.png
 
 ### `npm run build`
 
