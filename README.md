@@ -20,55 +20,34 @@ All the documentation I use is in the links I just shared.
 ### Setting
 
 First set up Apollo:
+<p align="center"> <img src="https://github.com/12aptor/Ravn-Challenge-V2-Paolo/blob/master/src/Img/routing%20and%20apollo%20configuration.png" width="600"/> </p>
 
-<p align="center"> <img src="https://github.com/12aptor/Ravn-Challenge-V2-Paolo/blob/master/src/Img/routing%20and%20apollo%20configuration.png" width="350"/> <img src="your_relative_path_here_number_2_large_name" width="350"/> </p>
+Then I did a simple routing so I can have all my views sorted.
+<p align="center"> <img src="https://github.com/12aptor/Ravn-Challenge-V2-Paolo/blob/master/src/Img/routed.png" width="600"/> </p>
 
-### `npm run build`
+To check that the route worked correctly I had to do tests and confirm that everything was fine.
+<p align="center"> <img src="https://github.com/12aptor/Ravn-Challenge-V2-Paolo/blob/master/src/Img/trying%20to%20get%20information.png" width="600"/> </p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Before consuming the data in the code, I had to read the documentation and avoid making mistakes or wasting time looking for ways to solve them.
+<p align="center"> <img src="https://github.com/12aptor/Ravn-Challenge-V2-Paolo/blob/master/src/Img/reading%20documentation.png" width="600"/> </p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Frontend development
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+After doing all the tests, reading the documentation and having the initial configurations.\
+I began to consume the data and bring all the necessary information for <<allPeople>>
+<p align="center"> <img src="https://github.com/12aptor/Ravn-Challenge-V2-Paolo/blob/master/src/Img/get%20all%20people%20data.png" width="600"/> </p>
+  
+Here we can see the first result.
+<p align="center"> <img src="https://github.com/12aptor/Ravn-Challenge-V2-Paolo/blob/master/src/Img/main%20menu.png" width="250"/> </p>
 
-### `npm run eject`
+Finally we obtain the general data of each character.
+<p align="center"> <img src="https://github.com/12aptor/Ravn-Challenge-V2-Paolo/blob/master/src/Img/get%20general%20information.png" width="250"/> </p>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+This would be your view.
+<p align="center"> <img src="https://github.com/12aptor/Ravn-Challenge-V2-Paolo/blob/master/src/Img/general%20information%20menu.png" width="250"/> </p>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**Note: We had some problems configuring the requests but they could be solved and they were not much of a problem.**
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
