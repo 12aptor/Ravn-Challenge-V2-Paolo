@@ -21,7 +21,7 @@ All the documentation I use is in the links I just shared.
 
 First set up Apollo:
 
-https://github.com/12aptor/Ravn-Challenge-V2-Paolo/blob/master/src/Img/routing%20and%20apollo%20configuration.png
+<p align="center"> <img src="https://github.com/12aptor/Ravn-Challenge-V2-Paolo/blob/master/src/Img/routing%20and%20apollo%20configuration.png" width="350"/> <img src="your_relative_path_here_number_2_large_name" width="350"/> </p>
 
 ### `npm run build`
 
